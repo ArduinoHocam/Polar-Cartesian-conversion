@@ -16,3 +16,12 @@ For the SDL2 wiki page: https://wiki.libsdl.org
 - You should see the opening window and a rotating line in the circle as follows:
 ![](https://github.com/ArduinoHocam/Polar-Cartesian-conversion/blob/main/example_SDL2_output.gif)
 
+
+### Arduino & OLED Screen
+
+- In order to test on the Arduino Nano & 0.96inch OLED Screen, use the following schematic
+![](https://github.com/ArduinoHocam/Polar-Cartesian-conversion/blob/main/arduino-oled-display-connections.png)
+- OLED output should be as follows:
+
+![](https://github.com/ArduinoHocam/Polar-Cartesian-conversion/blob/main/oled_example_output.gif)
+
