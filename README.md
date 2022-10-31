@@ -14,5 +14,5 @@ For the SDL2 wiki page: https://wiki.libsdl.org
 - You can build the main.cpp by this command : `g++ main.cpp -L/usr/local/lib -lSDL2`
 - Run the created executable by `./a.out`
 - You should see the opening window and a rotating line in the circle as follows:
-![https://github.com/ArduinoHocam/Polar-Cartesian-conversion/blob/main/example_SDL2_output.gif]()
+![](https://github.com/ArduinoHocam/Polar-Cartesian-conversion/blob/main/example_SDL2_output.gif)
 
